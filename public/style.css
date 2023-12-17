@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Text&family=Space+Grotesk:wght@500&display=swap");
+
+body {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(93, 0, 0, 1) 66%,
+    rgba(149, 1, 1, 1) 100%
+  );
+}
+
+img {
+  border-radius: 10px;
+}
+
+h1,
+p,
+.btn {
+  font-family: "Big Shoulders Inline Text", sans-serif;
+  font-family: "Space Grotesk", sans-serif;
+  color: white !important;
+}
+
+textarea,
+input {
+  font-family: "Big Shoulders Inline Text", sans-serif;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.btn {
+  background-color: black;
+}
+
+.modal-content {
+  background-color: #3d0000;
+}
+
+.inbox {
+  border: 0.1px solid black;
+}
+
+.example-box {
+  background-color: #950101;
+}
